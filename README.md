@@ -15,6 +15,7 @@ a NB classifier, you need to:
 • Compute P(Y ) but here we don’t need you to compute this as indicated in the hint
 
 • Compute log probability log(P(Y =1|x)/P(Y =−1|x))
+
 • decide the classification result
 
 Questions:
