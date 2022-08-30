@@ -1,5 +1,6 @@
-# naive-bayes-from-scratch
-Implementation of Naive Bayes classifier from scratch.
+# Naive Bayes Classifier
+
+Implementation of Naive Bayes classifier to classify a given name as either a girl's or boy's name.
 
 Problem statement:
 
